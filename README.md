@@ -14,3 +14,11 @@ The output includes:
 1. The pseudo-code that has been generated.
 2. A message confirming that the Pascal test file has successfully undergone lexical, syntactic, and semantic analysis and is correctly formatted.
 3. A table listing identifiers, including variables, constants, labels, as well as the names of functions and procedures.
+
+NOTE:
+## Contributors
+
+- [fatimamlk](https://github.com/fatimamlk)
+- [Cristal32](https://github.com/Cristal32)
+- [BasmaFAJOUI](https://github.com/BasmaFAJOUI)
+- [SAMAME2003](https://github.com/SAMAME2003)
