@@ -1,16 +1,16 @@
-# Pascal compiler with C
+# Pascal Compiler Written in C
 
-This project aimed to create a Pascal compiler. From the lexical, syntaxic and semantic analysis, to the generation of the pseudo-code. 
+This project was designed to build a Pascal compiler, encompassing the entire process from lexical, syntactic, and semantic analysis to the generation of pseudo-code.
 
-Sadly this work is unfinished, we couldn't implement all the desired grammar rules, and couldn't work on the interpreter. It's still open for anyone who wants to work on it and finish it. 
+Unfortunately, the project remains incomplete. We were unable to implement all the intended grammar rules and did not have the chance to develop the interpreter. The project is open for contributions from anyone interested in completing it.
 
-## How to use
+## Usage Instructions
 
-Simply compile and execute the main.c file, here's what should be displayed upon execution (with the test pascal file test.p):
+To use the compiler, simply compile and run the `main.c` file. When executed with the sample Pascal file `test.p`, the output should display the following:
 
 ![image](https://github.com/Cristal32/Pascal_compiler_with_C/assets/114748477/fb6224ca-381e-44b2-9102-882d7f5ca00c)
 
-In order:
-1. The generated pseudo-code.
-2. The message that the pascal test file has been tested through the lexical, syntaxic and semantic analysis and is correctly written.
-3. The table of identifiers (variable, constant, label, function and procedure names)
+The output includes:
+1. The pseudo-code that has been generated.
+2. A message confirming that the Pascal test file has successfully undergone lexical, syntactic, and semantic analysis and is correctly formatted.
+3. A table listing identifiers, including variables, constants, labels, as well as the names of functions and procedures.
